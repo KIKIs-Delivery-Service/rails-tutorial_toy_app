@@ -1,0 +1,5 @@
+current directory: /rails-tutorial/environment/toy_app/vendor/bundle/ruby/2.7.0/gems/childprocess-2.0.0/ext
+/usr/local/rvm/rubies/ruby-2.7.6/bin/ruby mkrf_conf.rb
+
+current directory: /rails-tutorial/environment/toy_app/vendor/bundle/ruby/2.7.0/gems/childprocess-2.0.0/ext
+/usr/local/rvm/rubies/ruby-2.7.6/bin/ruby -I/usr/local/rvm/rubies/ruby-2.7.6/lib/ruby/2.7.0/rubygems -rrubygems /rails-tutorial/environment/toy_app/vendor/bundle/ruby/2.7.0/gems/rake-12.3.3/exe/rake RUBYARCHDIR\=/rails-tutorial/environment/toy_app/vendor/bundle/ruby/2.7.0/extensions/x86_64-linux/2.7.0/childprocess-2.0.0 RUBYLIBDIR\=/rails-tutorial/environment/toy_app/vendor/bundle/ruby/2.7.0/extensions/x86_64-linux/2.7.0/childprocess-2.0.0
